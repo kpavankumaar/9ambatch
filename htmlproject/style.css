@@ -1,0 +1,51 @@
+div.header{
+    background-color:#333;
+    color:black;
+}
+.container{
+    width:1150px;
+    background-color: lightblue;
+    margin:auto;
+}
+.contain{
+    border:1px solid red;
+}
+.logo img{
+    width:120px;
+    height:50px;
+}
+ul{padding-left:15px;}
+ul li{
+    list-style-type: none;
+    float:left;
+    padding:25px 5px;
+    
+}
+a{  
+    background-color: grey;
+    /* width:200px;
+    height:200px; */
+    color:inherit;
+    /* display:block; */
+}
+.logo{
+    margin-right: 15px;
+}
+div.logo,ul{
+    float:left;
+}
+br{
+    clear:left;
+}
+.container div button{
+    padding:10px 20px;
+}
+#content{
+    padding:20px 0px;
+}
+#content div#search{
+    padding-top:50px;
+}
+#search{
+    padding-top:25px;
+}
