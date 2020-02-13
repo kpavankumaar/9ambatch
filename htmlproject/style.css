@@ -4,7 +4,7 @@ div.header{
 }
 .container{
     width:1150px;
-    background-color: lightblue;
+    /* background-color: lightblue; */
     margin:auto;
 }
 .contain{
@@ -48,4 +48,15 @@ br{
 }
 #search{
     padding-top:25px;
+}
+/* BANNER */
+.banner{
+    height:400px;
+    color:white;
+    background-image:url('https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528_960_720.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    padding:150px 0px;
+    box-sizing: border-box;
+
 }
